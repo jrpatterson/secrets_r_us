@@ -1,0 +1,1 @@
+must be a regular file a_plain_file.txt
